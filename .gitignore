@@ -1,0 +1,10 @@
+
+.idea
+target
+configuration.properties
+MyRestAssuredForApi.iml
+src/test/java/sprtnTest1/HamcrestMatchersTest.java
+src/test/java/sprtnTest3/GithubRestAPITest.java
+src/test/java/sprtnTest4/LibraryAppTest.java
+src/test/java/sprtnTest7/LibraryAppTest.java
+
